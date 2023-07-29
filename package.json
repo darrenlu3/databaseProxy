@@ -1,0 +1,19 @@
+{
+  "name": "databaseproxy",
+  "version": "1.0.0",
+  "description": "dot. cards technical assessment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/darrenlu3/databaseProxy.git"
+  },
+  "author": "darrenlu3",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/darrenlu3/databaseProxy/issues"
+  },
+  "homepage": "https://github.com/darrenlu3/databaseProxy#readme"
+}

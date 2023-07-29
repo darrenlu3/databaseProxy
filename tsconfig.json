@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+	"target": "es6",                     // Target ECMAScript version
+	"module": "commonjs",                // Output module system
+	"outDir": "dist",                    // Output directory for compiled files
+	"rootDir": "src",                    // Source directory
+	"strict": true,                      // Enable strict type-checking
+	"esModuleInterop": true,             // Enables compatibility with commonJS modules
+	"resolveJsonModule": true,           // Allows importing JSON files
+	"declaration": true,                 // Generate declaration files (*.d.ts)
+	"sourceMap": true                    // Generate source maps for debugging
+  },
+  "include": ["src/**/*.ts"],           // Source files to be included
+  "exclude": ["node_modules", "dist"]    // Files to be excluded from compilation
+}
